@@ -1,0 +1,21 @@
+*{
+  padding:0;
+  margin:0;
+ }
+ body{
+ background-color:purple;
+}
+ div.yellow{
+    background-color:yellow;
+    color:red;
+    text-align:center;
+}
+ #prop{
+ align:left;
+ height:200px;
+ width:300px;
+}
+ img{
+ height:65%;
+ width:100%;
+}
